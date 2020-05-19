@@ -1,6 +1,6 @@
 import React from 'react';
 import "./App.css";
-import TaktikalSearch from "./components/Taktikal";
+import TaktikalSearch from "./components/TaktikalSearch";
 
 function App() {
   return (
